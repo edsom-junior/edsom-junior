@@ -39,17 +39,6 @@ Meu GitHub reúne projetos de diferentes etapas da minha formação, incluindo e
 
 Utilizo esse espaço para colocar meus conhecimentos em prática, explorar soluções e acompanhar minha evolução como programador.
 
-```js
-const edsom = {
-  nome: "Edsom Junior",
-  area: "Ciência da Computação",
-  foco: ["JavaScript", "TypeScript", "Node.js"],
-  bancoDeDados: ["SQL"],
-  estudos: ["C#", "Python"],
-  github: "edsom-junior",
-  objetivo: "Aprender, construir e evoluir através de projetos"
-};
-```
 
 ---
 
